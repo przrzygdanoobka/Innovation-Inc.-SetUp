@@ -1,0 +1,1 @@
+Instructions: After installation is complete, extract the IITPP file and run it. Then run the RobloxPlayerLauncher.exe file wait for a while for it to install after completing the installation of the RobloxPlayerLauncher.exe file run the Innovation inc. Thermal Power Plant Launcher.exe will redirect you to the page where you must click the green button
